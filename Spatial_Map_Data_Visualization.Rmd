@@ -1,5 +1,5 @@
 ---
-title: "MAT213 Project 4: Making a Spatial Map"
+title: "Spatial Map Data Visualization for Nice Ride Bicycles"
 author: "Bjorn Melin"
 date: "4/9/2019"
 output: html_document
